@@ -31,6 +31,7 @@ You can install power BI destop from microsoft store
    
    <div style="text-align: center;">  
    <img src="BI Desktop.png" align= "center" alt="Figure 1" width="300" height="200">    
+       <br>
    <figcaption align= "center">Figure 1</figcaption>     
    </div>  
      
@@ -44,7 +45,8 @@ You can also install power BI desktop from official microsoft website
 3. Select official microsoft website  
     
     <div style="text-align: center;">    
-   <img src="MS page 1.1.png" alt="Figure 1" width="300" height="200" align='center'>      
+   <img src="MS page 1.1.png" alt="Figure 1" width="300" height="200" align='center'>   
+        <br>
    <figcaption align= "center">Figure 2</figcaption>  
    </div>    
   
@@ -63,7 +65,8 @@ The Installation process is same for both the methods
 4. Double click the file   
      
      <div style="text-align: center;">    
-    <img src="Installation1.1.png" alt="Figure 1" width="300" height="200" align='center'>      
+    <img src="Installation1.1.png" alt="Figure 1" width="300" height="200" align='center'>    
+         <br>
    <figcaption align= "center">Figure 3</figcaption>  
    </div>    
     
@@ -72,6 +75,7 @@ The Installation process is same for both the methods
   
     <div style="text-align: center;">    
    <img src="1.1.jpg" alt="Figure 1" width="300" height="200" align='center'>      
+        <br>
    <figcaption align= "center">Figure 4</figcaption>    
    </div>    
      
@@ -79,6 +83,7 @@ The Installation process is same for both the methods
    
     <div style="text-align: center;">    
    <img src="2.2.jpg" alt="Figure 1" width="300" height="200" align='center'>      
+        <br>
    <figcaption align= "center">Figure 5</figcaption>    
    </div>    
      
@@ -86,6 +91,7 @@ The Installation process is same for both the methods
    
     <div style="text-align: center;">    
    <img src="3.3.jpg" alt="Figure 1" width="300" height="200" align='center'>      
+        <br>
    <figcaption align= "center">Figure 6</figcaption>     
    </div>    
      
@@ -93,6 +99,7 @@ The Installation process is same for both the methods
    
     <div style="text-align: center;">    
    <img src="4.4.jpg" alt="Figure 1" width="300" height="200" align='center'>      
+        <br>
    <figcaption align= "center">Figure 7</figcaption>  
    </div>       
       
@@ -101,6 +108,7 @@ The Installation process is same for both the methods
 
       <div style="text-align: center;">     
      <img src="5.5.jpg" alt="Figure 1" width="300" height="200" align='center'>      
+          <br>
    <figcaption align= "center">Figure 8</figcaption>    
    </div>    
      
@@ -132,6 +140,7 @@ The Installation process is same for both the methods
    
   <div style="text-align: center;">     
      <img src="About.png" alt="Figure 1" width="300" height="200" align='center'>      
+      <br>
    <figcaption align= "center">Figure 9</figcaption>    
    </div>     
      
