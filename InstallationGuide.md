@@ -44,7 +44,7 @@ You can also install power BI desktop from official microsoft website
 3. Select official microsoft website  
     
     <div style="text-align: center;">    
-   <img src="MS page 1.1.png" alt="Figure 1" width="300" height="200" align='center'>    
+   <img src="MS page 1.1.png" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 2</figcaption>  
    </div>    
   
@@ -63,7 +63,7 @@ The Installation process is same for both the methods
 4. Double click the file   
      
      <div style="text-align: center;">    
-    <img src="Installation1.1.png" alt="Figure 1" width="300" height="200" align='center'>    
+    <img src="Installation1.1.png" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 3</figcaption>  
    </div>    
     
@@ -71,28 +71,28 @@ The Installation process is same for both the methods
 5. Select **English** from **Select Language** drop down, and click the **Next** button  
   
     <div style="text-align: center;">    
-   <img src="1.1.jpg" alt="Figure 1" width="300" height="200" align='center'>    
+   <img src="1.1.jpg" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 4</figcaption>    
    </div>    
      
 6. Click the **Next** button    
    
     <div style="text-align: center;">    
-   <img src="2.2.jpg" alt="Figure 1" width="300" height="200" align='center'>    
+   <img src="2.2.jpg" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 5</figcaption>    
    </div>    
      
 7. Select the **I accept the terms in the License Agreement** checkbox, and click the **Next** button  
    
     <div style="text-align: center;">    
-   <img src="3.3.jpg" alt="Figure 1" width="300" height="200" align='center'>    
+   <img src="3.3.jpg" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 6</figcaption>     
    </div>    
      
 8. Click the **change** button, if you want to change the file location, and click the **Next** button   
    
     <div style="text-align: center;">    
-   <img src="4.4.jpg" alt="Figure 1" width="300" height="200" align='center'>    
+   <img src="4.4.jpg" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 7</figcaption>  
    </div>       
       
@@ -100,7 +100,7 @@ The Installation process is same for both the methods
    *Installation starts*    
 
       <div style="text-align: center;">     
-     <img src="5.5.jpg" alt="Figure 1" width="300" height="200" align='center'>    
+     <img src="5.5.jpg" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 8</figcaption>    
    </div>    
      
@@ -131,7 +131,7 @@ The Installation process is same for both the methods
 1. Open **Power BI** from start menu or desktop shortcut     
    
   <div style="text-align: center;">     
-     <img src="About.png" alt="Figure 1" width="300" height="200" align='center'>    
+     <img src="About.png" alt="Figure 1" width="300" height="200" align='center'>      
    <figcaption align= "center">Figure 9</figcaption>    
    </div>     
      
