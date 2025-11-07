@@ -32,7 +32,7 @@ You can install power BI destop from microsoft store
    <div style="text-align: center;">  
    <img src="BI Desktop.png" align= "center" alt="Figure 1" width="300" height="200">    
        <br>
-   <figcaption align= "center">*Figure 1*</figcaption>     
+   <figcaption align= "center">Figure 1</figcaption>     
    </div>  
      
 3. Select **Microsoft Power BI Desktop** option
